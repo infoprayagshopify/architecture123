@@ -5595,7 +5595,10 @@ h6 {
 	-webkit-transform: translateX(50px);
 	        transform: translateX(50px);
 }
-
+.anim-fade-to-center {
+	-webkit-transform: translateX(50px);
+	        transform: translateX(50px);
+}
 .anim-fade-to-top {
 	-webkit-transform: translateY(50px);
 	        transform: translateY(50px);
